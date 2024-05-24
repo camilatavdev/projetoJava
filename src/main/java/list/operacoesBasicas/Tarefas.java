@@ -1,4 +1,4 @@
-package list.operacoesBasicas;
+package main.java.list.operacoesBasicas;
 
 public class Tarefas {
     private String descricao; //private pra dps ser acessado pelo metodo publico get
