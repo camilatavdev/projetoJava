@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ListaTarefa {
-    private List<Tarefas> tarefasList; //tarefasList é uma lista do tipo List<Tarefas>
+    private List<Tarefas> tarefasList; // o que ta entre <> é a classe Tarefas
+    //tarefasList é uma lista do tipo List<Tarefas>
 
     public ListaTarefa() {//construtor
         this.tarefasList = new ArrayList<>();//arraylist vazio, para armazenar as tarefas
