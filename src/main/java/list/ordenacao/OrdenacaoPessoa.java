@@ -1,8 +1,9 @@
 package main.java.list.ordenacao;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.List;
+import java.util.Collections;
+
 
 public class OrdenacaoPessoa {
     private List<Pessoa> pessoaList;
